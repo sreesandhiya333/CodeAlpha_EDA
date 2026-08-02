@@ -9,6 +9,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset to 
 - NumPy
 - Matplotlib
 - Seaborn
+- VS code
 
 ## Dataset
 Titanic Dataset
